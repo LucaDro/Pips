@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="domino_data" format=3 uid="uid://bo3f3n5j5y80y"]
+
+[ext_resource type="Script" uid="uid://jjhsspm6uff0" path="res://resources/domino_data.gd" id="1_gr1nj"]
+
+[resource]
+script = ExtResource("1_gr1nj")
+metadata/_custom_type_script = "uid://jjhsspm6uff0"

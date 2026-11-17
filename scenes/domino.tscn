@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dymm7hxuya0b3"]
+
+[ext_resource type="Script" uid="uid://3dl4ir6vbi2h" path="res://scripts/domino.gd" id="1_r304t"]
+
+[node name="Sprite2D" type="Sprite2D" unique_id=163876249]
+script = ExtResource("1_r304t")

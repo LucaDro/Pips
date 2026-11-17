@@ -10,7 +10,16 @@ config_version=5
 
 [application]
 
+config/name="Pips"
+run/main_scene="uid://caur7snv0cpnx"
 config/features=PackedStringArray("4.6")
+
+[display]
+
+window/size/viewport_width=300
+window/size/viewport_height=500
+window/stretch/mode="viewport"
+window/handheld/orientation=1
 
 [physics]
 
@@ -18,4 +27,6 @@ config/features=PackedStringArray("4.6")
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 rendering_device/driver.windows="d3d12"
+renderer/rendering_method="mobile"

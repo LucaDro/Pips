@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://ds4gry1sruo04"]
+
+[ext_resource type="Texture2D" uid="uid://0qubrwnktxe7" path="res://assets/empty_grid_slot.png" id="1_rq6mo"]
+
+[node name="EmptySlotTexture" type="TextureRect" unique_id=1794299324]
+offset_right = 40.0
+offset_bottom = 40.0
+texture = ExtResource("1_rq6mo")
